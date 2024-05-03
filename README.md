@@ -1,7 +1,7 @@
-# Machine_Learning
+# MachineLearning
 This is a repo composed of machine learning work I did in my third year of Computer Science and Biology at McGill. 
 
-## Assignment Descriptions
+## Project Descriptions
 
 ### KNN_DT:
 Implemented from scratch KNN and DT models to conduct analysis on 2 datasets.
