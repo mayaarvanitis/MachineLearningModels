@@ -1,5 +1,6 @@
 # MachineLearning :bar_chart:
-This is a repo composed of machine learning work I did in my third year of Computer Science and Biology at McGill. 
+
+This repository contains machine learning projects completed during my third year of Computer Science & Biology at McGill University.
 
 ## Project Descriptions
 
