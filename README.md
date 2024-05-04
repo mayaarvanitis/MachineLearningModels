@@ -10,7 +10,7 @@ Implemented from scratch KNN and DT models to conduct analysis on 2 datasets.
 - Breast Cancer Wisconsin
 
 ### Multiclass Regression: :chart_with_upwards_trend:
-Implemeneted Multiclass Regression model from scratch. 
+Implemented Multiclass Regression model from scratch. 
 
 Dataset: 20 newsgroups dataset
 
